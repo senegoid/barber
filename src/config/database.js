@@ -9,4 +9,6 @@ module.exports = {
     underscored: true,
     underscoredAll: true,
   },
+  mongoUrl:
+    'mongodb+srv://dioh:aab4209@cluster0-ukmmy.mongodb.net/test?retryWrites=true&w=majority',
 };
